@@ -1,5 +1,5 @@
 
-# Surf Up
+# UFOs
 
 ## <font color=#6495ED>Overview of Project</font>
 UFO is a topic that we have been interested in since we were children. For this assignment the only thing we have to go on is a JavaScript file filled to the brim with sighting information. Countries, cities, states, type of sighting, there is a lot in this file. We are aware of JavaScript’s visual functionality. Our plan is first to use JavaScript to display data as a table. However, there is so much data, sifting through it without adjustment would be challenge. JavaScript provides a way to manipulate the data by adding filters. It’s trickier to add more than one filters. We want to put everything together in a tidy HTML page, the article, the table of data to support findings, and easy to use filters to fine turn the results. 
